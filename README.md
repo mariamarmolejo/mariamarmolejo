@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @mariamarmolejo and 👀 I’m interested in Back-end.
-- 🌱 I’m currently learning JavaScript and HTML, from a scolarship with Oracle.
+- 🌱 I’m currently learning, from a scolarship by Oracle and Alura.
 - 📫 How to reach me: mariamarmolejo0401@gmail.com 

@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @mariamarmolejo and 👀 I’m interested in Back-end.
-- 🌱 I’m currently learning, from a scolarship by Oracle and Alura.
-- 📫 How to reach me: mariamarmolejo0401@gmail.com 
+- 🌱 I’m currently learning, from a scolarship by EPAM.
+- I'm junior back end developer certified by Oracle and Alura
+- 📫 How to reach me: ingmariamarmolejo@gmail.com 

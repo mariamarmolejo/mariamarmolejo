@@ -42,5 +42,4 @@ Cloud automation best practices
 
 *📫 How to reach me*
 
-*💼 LinkedIn: [LINK](https://www.linkedin.com/in/mariamarmolejom/)*
 *📧 Email: ingmariamarmolejo@gmail.com*

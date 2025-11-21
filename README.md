@@ -1,7 +1,5 @@
 # Hi, I'm Maria Marmolejo 💻 Cloud & AI Agents Developer
 
-Systems Engineering student (9th semester) with experience in AI agents, backend development, cloud workflows, and intelligent automation. I enjoy building practical, scalable solutions using modern technologies.
-
 **🚀 About Me**
 
 🌐 Cloud Engineer

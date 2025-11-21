@@ -1,7 +1,9 @@
 # Hi, I'm Maria Marmolejo 💻 Cloud & AI Agents Developer
+
 Systems Engineering student (9th semester) with experience in AI agents, backend development, cloud workflows, and intelligent automation. I enjoy building practical, scalable solutions using modern technologies.
 
 **🚀 About Me**
+
 🌐 Cloud Engineer
 💻 Former Backend Developer (Java, APIs, deployments, debugging)
 🌍 Bilingual Customer Service (USA/CA), handling CRM and technical support
@@ -40,6 +42,7 @@ Advanced LangChain + LangGraph patterns
 LLMOps & scalable AI workflows
 Cloud automation best practices
 
-*📫 How to reach me
-💼 LinkedIn: puedo añadirlo si quieres
-📧 Email: ingmariamarmolejo@gmail.com*
+*📫 How to reach me*
+
+*💼 LinkedIn: [LINK](https://www.linkedin.com/in/mariamarmolejom/)*
+*📧 Email: ingmariamarmolejo@gmail.com*
